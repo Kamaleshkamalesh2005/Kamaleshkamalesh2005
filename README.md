@@ -1,6 +1,6 @@
 # 💫 About Me:
 💼 About Me<br><br>Hi, I’m Kamalesh B, a passionate 3rd-year B.Tech student in Artificial Intelligence and Data Science at Easwari Engineering College, Chennai.<br>I enjoy building intelligent systems and full-stack applications that bridge the gap between AI models and real-world usability.<br><br>I’ve gained hands-on experience during my internship at VyBog India Pvt. Ltd., where I developed a Resume Parser & Matcher system using Machine Learning, NLP, and Flask.<br>I’m constantly exploring ways to integrate AI and web technologies to create scalable, user-focused solutions.
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YbYUzzXj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kama__lesh21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalesh-b-5a524932a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamalesh012005@gmail.com) 
