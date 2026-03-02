@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace the image URL below with your own photo (recommended) -->
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" height="150" style="border-radius: 50%;" alt="Kamalesh profile picture"/>
+  <img width="1024" height="559" alt="image_1cd9cb44-b3e9-4395-a0eb-702bb185cdeb" src="https://github.com/user-attachments/assets/8bf31960-f7f4-4fdb-af7c-6cf6d6e1b035" />
 </p>
 
 <p align="center">
