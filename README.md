@@ -97,25 +97,6 @@
 
 <!-- ================== SHOWCASE / FEATURE IMAGE ================== -->
 
-## 🖼️ Featured Visual (AI Vibes)
-<p align="center">
-  <!-- You can replace this with your own banner/artwork too -->
-  <img src="https://user-images.githubusercontent.com/74038190/212750148-55b3c4a6-0d8f-4f44-9a65-8b3d4d7d6f2d.gif" width="700" alt="AI animation banner"/>
-</p>
-
----
-
-<!-- ================== CONTRIBUTION SNAKE ================== -->
-
-
-<!-- ================== TROPHIES ================== -->
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamaleshkamalesh2005&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 <!-- ================== CURRENT FOCUS ================== -->
 
