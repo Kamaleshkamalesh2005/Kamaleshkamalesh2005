@@ -9,6 +9,7 @@
   <img width="1024" height="559" alt="image_1cd9cb44-b3e9-4395-a0eb-702bb185cdeb" src="https://github.com/user-attachments/assets/8bf31960-f7f4-4fdb-af7c-6cf6d6e1b035" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=300&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Full-Stack+AI+Builder;Machine+Learning+%7C+NLP+%7C+Flask;Turning+Ideas+into+Intelligent+Systems" />
 </p>
