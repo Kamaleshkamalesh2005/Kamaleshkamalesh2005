@@ -38,10 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=Kamaleshkamalesh2005&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kamaleshkamalesh2005&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 ---
 
 <!-- ================== ABOUT ME (PREMIUM BOX STYLE) ================== -->
